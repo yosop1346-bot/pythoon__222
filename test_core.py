@@ -28,7 +28,7 @@ def test_analyze():
     analyzer = TextAnalyzer("Hello world.")
 
     assert analyzer.analyze() == {
-        "\uae00\uc790\uc218": 11,
-        "\ubb38\uc7a5\uc218": 1,
-        "\ub2e8\uc5b4\uc218": 2,
+        "\글자수": 11,
+        "\문자수": 1,
+        "\단어수": 2,
     }
