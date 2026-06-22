@@ -1,6 +1,6 @@
 # 텍스트 분석 패키지
 
-https://github.com/yosop1346-bot/pythoon__
+https://github.com/yosop1346-bot/pythoon__222
 
 
 ## 1. 프로젝트 개요
